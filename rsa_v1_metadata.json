@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "algorithm": "RSA",
+  "hash": "SHA-256",
+  "firmware_file": "demo_firmware.bin",
+  "signature_file": "rsa_v1.sig",
+  "firmware_size_bytes": 53,
+  "firmware_sha256": "eb68ae0d0254f14fc279bf331734f24b62d2104ac1dcb58fd555eadd19338a51",
+  "signature_encoding": "RSA-PSS",
+  "status": "TEST PACKAGE \u2014 verify on device before accepting"
+}
